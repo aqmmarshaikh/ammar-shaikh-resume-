@@ -6,7 +6,7 @@ Customized for [Ammar Shaikh](https://github.com/aqmmarshaikh) (CEO & Founder of
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/aqmmarshaikh/ammar-shaikh-resume-)
 
-![Portfolio Preview](./public/assets/projects-screenshots/debat-ai/debat-ai.png)
+![Portfolio Preview](./public/assets/nav-link-previews/landing.png)
 
 ## ✨ Features
 
